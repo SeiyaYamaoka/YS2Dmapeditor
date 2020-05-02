@@ -18,91 +18,135 @@ http://arrowya12.html.xdomain.jp/ArrowBlog/index02map2dedita/index02map2dedita01
 
 Description in the folder
 
-background
+  -background
 
-background image
+    background image
 
-data
+  -data
 
-Created map data
+    Created map data
 
-mapchip
+  -mapchip
 
-map chip image
+    map chip image
 
-play
+  -play
 
-test game executable
+    test game executable
 
-setting
+   -setting
 
-ChipConfiguration.txt
+      ChipConfiguration.txt
+      
+        Map chip configuration file
 
+          'chip=0/ratio=1,1{
+          type=0/file=block.bmp/rect=0,0,32,32
+          }'
+
+          Image settings in the mapchip file. Then, specify the size.
+
+          I tried to set the height and width of the image in the ratio, but it doesn't work.
+
+      InitConfiguration.txt
+
+        This is the first default setting to be loaded. When you quit the editor, the settings will be restored, so you can set them when you make the same game.
+    
+    
+        COL_NUM=80
+
+          number of horizontal blocks
+
+        ROW_NUM=60
+
+          number of vertical blocks
+
+        BLO_SIZE=24
+
+          Size of the block
+
+        backbmpfilename=pipo-battlebg001.jpg
+
+          background image
+
+        MapChipSetFile=setting\ChipConfiguration.txt
+
+          Map chip configuration file
+
+        TestPlayfile=play\TransferZombie.exe
+
+          テストゲーム用実行ファイル
+
+        Mapdatafile=test6.txt
+
+          初期読み込みファイル
+
+---
 
 フォルダ内の説明
 
-background
+  -background
 
-背景画像
+    背景画像
+    
+  -data
 
-data
+    作成したマップデータ
 
-作成したマップデータ
+  -mapchip
 
-mapchip
+    マップチップ画像
 
-マップチップ画像
+  -play
 
-play
+    テストプレイ用実行ファイル
 
-テストプレイ用実行ファイル
+  -setting
 
-setting
+    ChipConfiguration.txt
 
-ChipConfiguration.txt
+      マップチップの設定ファイル
 
-マップチップの設定ファイル
+      'chip=0/ratio=1,1{
+      type=0/file=block.bmp/rect=0,0,32,32
+      }'
 
-'chip=0/ratio=1,1{
-type=0/file=block.bmp/rect=0,0,32,32
-}'
+      mapchipファイル内の画像設定。そのあとサイズを指定
 
-mapchipファイル内の画像設定。そのあとサイズを指定
+      ratioで画像の縦横を設定しようとしたができてない。
 
-ratioで画像の縦横を設定しようとしたができてない。
+    InitConfiguration.txt
 
-InitConfiguration.txt
+      最初に読み込まれる初期設定です。エディタを終了すると設定されているものは元通りになるので同じゲームを作るとき設定する
 
-最初に読み込まれる初期設定です。エディタを終了すると設定されているものは元通りになるので同じゲームを作るとき設定する
-COL_NUM=80
+      COL_NUM=80
 
-横ブロック数
+        横ブロック数
 
-ROW_NUM=60
+      ROW_NUM=60
 
-縦ブロック数
+        縦ブロック数
 
-BLO_SIZE=24
+      BLO_SIZE=24
 
-ブロックのサイズ
+        ブロックのサイズ
 
-backbmpfilename=pipo-battlebg001.jpg
+      backbmpfilename=pipo-battlebg001.jpg
 
-背景画像
+        背景画像
 
-MapChipSetFile=setting\ChipConfiguration.txt
+      MapChipSetFile=setting\ChipConfiguration.txt
 
-マップチップの設定ファイル
+        マップチップの設定ファイル
 
-TestPlayfile=play\TransferZombie.exe
+      TestPlayfile=play\TransferZombie.exe
 
-テストゲーム用実行ファイル
+        テストゲーム用実行ファイル
 
-Mapdatafile=test6.txt
+      Mapdatafile=test6.txt
 
-初期読み込みファイル
+        初期読み込みファイル
 
-Count=1
 
 
 ## Usage
