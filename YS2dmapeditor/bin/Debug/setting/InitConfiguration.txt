@@ -1,0 +1,8 @@
+COL_NUM=80
+ROW_NUM=60
+BLO_SIZE=24
+backbmpfilename=pipo-battlebg001.jpg
+MapChipSetFile=setting\ChipConfiguration.txt
+TestPlayfile=play\TransferZombie.exe
+Mapdatafile=test6.txt
+Count=1

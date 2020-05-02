@@ -1,0 +1,36 @@
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.exe.config
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.exe
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.pdb
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.xml
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.vbprojResolveAssemblyReference.cache
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.Form1.resources
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.Resources.resources
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.vbproj.GenerateResource.Cache
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.vbproj.CoreCompileInputs.cache
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.exe
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.xml
+C:\Users\yanoka\Desktop\test\YSmapediter\mapeditorVer1.2\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.pdb
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.exe.config
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.exe
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.pdb
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.xml
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.vbprojResolveAssemblyReference.cache
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.Form1.resources
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.Resources.resources
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.vbproj.GenerateResource.Cache
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.vbproj.CoreCompileInputs.cache
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.exe
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.xml
+C:\Users\yanoka\Desktop\test\新しいフォルダー (2)\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.pdb
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.exe.config
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.exe
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.pdb
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\bin\Debug\YS2dmapeditor.xml
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.vbprojResolveAssemblyReference.cache
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.Form1.resources
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.Resources.resources
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.vbproj.GenerateResource.Cache
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.vbproj.CoreCompileInputs.cache
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.exe
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.xml
+C:\Users\yanoka\Desktop\test\2Dマップエディタ\YS2dmapeditor\YS2dmapeditor\obj\Debug\YS2dmapeditor.pdb
