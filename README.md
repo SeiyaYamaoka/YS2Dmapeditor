@@ -2,15 +2,16 @@ My English is not very good, please forgive me.
 英語上手じゃないのでご容赦ください。
 
 NAME
+====
 YS2Dmapeditor
 
-Overview
+#Overview
 
 ## Description
 This is a map making tool for 2D games that I created when I was a student.
 学生時代に作成した２Dゲーム用のマップ作製ツールです。
 
-# DEMO
+## DEMO
 http://arrowya12.html.xdomain.jp/ArrowBlog/index02map2dedita/index02map2dedita01.html
 Description in the folder
 
@@ -71,15 +72,15 @@ Mapdatafile=test6.txt
 Count=1
 
 
-# Usage
+## Usage
 I don't know.
 知らぬ
 
-# Note
+## Note
 Probably an error if you enter an unexpected number
 多分想定外の数値を入力するとエラーになります
 
-# Author
+## Author
 Seiya Yamaoka
 山岡征矢
 
