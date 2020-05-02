@@ -18,23 +18,23 @@ http://arrowya12.html.xdomain.jp/ArrowBlog/index02map2dedita/index02map2dedita01
 
 Description in the folder
 
-  -background
+  - background
 
     background image
 
-  -data
+  - data
 
     Created map data
 
-  -mapchip
+  - mapchip
 
     map chip image
 
-  -play
+  - play
 
     test game executable
 
-   -setting
+   - setting
 
       ChipConfiguration.txt
       
@@ -75,33 +75,33 @@ Description in the folder
 
         TestPlayfile=play\TransferZombie.exe
 
-          テストゲーム用実行ファイル
+          test game executable
 
         Mapdatafile=test6.txt
 
-          初期読み込みファイル
-
+          initial read file
+          
 ---
 
 フォルダ内の説明
 
-  -background
+  - background
 
     背景画像
     
-  -data
+  - data
 
     作成したマップデータ
 
-  -mapchip
+  - mapchip
 
     マップチップ画像
 
-  -play
+  - play
 
     テストプレイ用実行ファイル
 
-  -setting
+  - setting
 
     ChipConfiguration.txt
 
